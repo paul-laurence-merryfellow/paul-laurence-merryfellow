@@ -49,3 +49,6 @@
 
 
 ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pmerryfellow&show_border=off&layout=wide)
+
+
+<!-- ![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3164050) -->
