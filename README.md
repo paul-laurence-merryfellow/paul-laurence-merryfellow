@@ -48,7 +48,7 @@
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 
-![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pmerryfellow&show_border=off&layout=wide)
+<!-- ![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pmerryfellow&show_border=off&layout=wide) -->
 
 
 <!-- ![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3164050) -->
