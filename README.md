@@ -47,3 +47,5 @@
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
+
+![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=pmerryfellow&show_border=off&layout=wide)
