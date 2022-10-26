@@ -53,7 +53,7 @@
 ![image](https://img.shields.io/badge/OpenJDK-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![image](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=000066)
 ![image](https://img.shields.io/badge/Poetry-FFFFFF?style=for-the-badge&logo=Poetry&logoColor=60A5FA)
-![image](https://img.shields.io/badge/Pop!_OS-333333?style=for-the-badge&logo=Pop!_OS&logoColor=48B9C7)
+![image](https://img.shields.io/badge/Pop!__OS-333333?style=for-the-badge&logo=Pop!_OS&logoColor=48B9C7)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Red%20Hat-000000?style=for-the-badge&logo=redhat&logoColor=ee0000)
