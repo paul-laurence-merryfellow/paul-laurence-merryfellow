@@ -5,6 +5,7 @@
 ![image](https://img.shields.io/badge/Apache%20HTTP%20Server-222222?style=for-the-badge&logo=Apache&logoColor=D22128)
 ![image](https://img.shields.io/badge/Apache%20Tomcat-333333?style=for-the-badge&logo=Apache%20Tomcat&logoColor=F8DC75)
 ![image](https://img.shields.io/badge/Arch_Linux-444444?style=for-the-badge&logo=arch-linux&logoColor=1793D1)
+![image](https://img.shields.io/badge/Asciinema-000000?style=for-the-badge&logo=asciinema&logoColor=D40000)
 ![image](https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25)
 ![image](https://img.shields.io/badge/Blender-000066?style=for-the-badge&logo=blender&logoColor=23F5792A)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
