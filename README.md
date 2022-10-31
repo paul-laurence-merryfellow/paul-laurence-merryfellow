@@ -61,6 +61,7 @@
 ![image](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![image](https://img.shields.io/badge/Spring-FFFFFF?style=flat&logo=Spring&logoColor=6DB33F)
+![image](https://img.shields.io/badge/Stylus-363636?style=flat&logo=Stylus&logoColor=B9D043)
 ![image](https://img.shields.io/badge/SuSE-0C322C?style=flat&logo=SUSE&logoColor=11AB00)
 ![image](https://img.shields.io/badge/TOR-001533?style=flat&logo=Tor%20Browser&logoColor=7D4698)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
