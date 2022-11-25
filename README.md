@@ -56,6 +56,7 @@
 [![](https://img.shields.io/badge/Poetry-FFFFFF?style=flat&logo=Poetry&logoColor=60A5FA)](#)
 [![](https://img.shields.io/badge/Pop!__OS-333333?style=flat&logo=Pop!_OS&logoColor=48B9C7)](#)
 [![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](#)
+[![](https://img.shields.io/badge/Pug-E5C29E?style=flat&logo=pug&logoColor=523029)](#)
 [![](https://img.shields.io/badge/Python-356C9B?style=flat&logo=python&logoColor=F2C83F)](#)
 [![](https://img.shields.io/badge/Red_Hat-151515?style=flat&logo=redhat&logoColor=ee0000)](#)
 [![](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)](#)
